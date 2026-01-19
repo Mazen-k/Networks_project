@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>View Files</title>
+
+  
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+      <a class="navbar-brand" href="#">FileShare</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="/">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/logs">Logs</a>
+              </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/login">Login</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container my-5">
+    <h1 class="text-center mb-4">Available Files</h1>
+
+    <div class="list-group">
+      {% for f in files %}
+      <div class="list-group-item d-flex justify-content-between align-items-center">
+        <h5 class="mb-1">{{ f }}</h5>
+        <div class="btn-group">
+          <a href="{{ url_for('download_file', filename=f) }}"
+             class="btn btn-primary">Download</a>
+          {% if session.get('is_admin') %}
+            <form action="{{ url_for('delete_file', filename=f) }}"
+                  method="post" class="d-inline">
+              <button type="submit"
+                      class="btn btn-danger"
+                      onclick="return confirm('Delete {{ f }} ?');">
+                Delete
+              </button>
+            </form>
+          {% endif %}
+        </div>
+      </div>
+    {% else %}
+      <p class="text-muted">No files on the server yet.</p>
+    {% endfor %}
+    
+    </div>
+    
+  </div>
+
+ 
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

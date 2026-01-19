@@ -1,0 +1,165 @@
+2025-04-26 17:11:13,380 - INFO - Client connected : ('127.0.0.1', 64726)
+2025-04-26 17:11:22,793 - INFO - Client connected : ('127.0.0.1', 64732)
+2025-04-26 17:11:22,794 - INFO - Error hadnling client ('127.0.0.1', 64732): invalid literal for int() with base 10: '(2).pdf'
+2025-04-26 17:11:27,723 - INFO - Client connected : ('127.0.0.1', 64734)
+2025-04-26 17:11:27,723 - INFO - Error hadnling client ('127.0.0.1', 64734): invalid literal for int() with base 10: '(1).docx'
+2025-04-26 17:11:35,232 - INFO - Client connected : ('127.0.0.1', 64736)
+2025-04-26 17:11:35,255 - INFO - 'SamLand-Ticket-SL-M9SYHXR5-16WZ.pdf' uploaded successfully
+2025-04-26 17:11:54,749 - INFO - Client connected : ('127.0.0.1', 64740)
+2025-04-26 17:11:56,249 - INFO - Client connected : ('127.0.0.1', 64741)
+2025-04-26 17:11:59,669 - INFO - Client connected : ('127.0.0.1', 64743)
+2025-04-26 17:12:03,880 - INFO - Client connected : ('127.0.0.1', 64746)
+2025-04-26 17:12:10,481 - INFO - Client connected : ('127.0.0.1', 64748)
+2025-04-26 17:12:10,495 - INFO - Error hadnling client ('127.0.0.1', 64748): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-26 17:14:59,760 - INFO - Client connected : ('127.0.0.1', 64771)
+2025-04-26 17:14:59,761 - INFO - Error hadnling client ('127.0.0.1', 64771): invalid literal for int() with base 10: '(1).pdf'
+2025-04-26 17:15:01,165 - INFO - Client connected : ('127.0.0.1', 64773)
+2025-04-26 17:15:01,165 - INFO - Error hadnling client ('127.0.0.1', 64773): invalid literal for int() with base 10: '(1).pdf'
+2025-04-26 17:15:52,269 - INFO - Client connected : ('127.0.0.1', 64780)
+2025-04-26 17:16:01,623 - INFO - Client connected : ('127.0.0.1', 64781)
+2025-04-26 17:16:02,811 - INFO - Client connected : ('127.0.0.1', 64783)
+2025-04-26 17:16:03,847 - INFO - Client connected : ('127.0.0.1', 64785)
+2025-04-26 17:16:04,433 - INFO - Client connected : ('127.0.0.1', 64787)
+2025-04-26 17:16:04,445 - INFO - Error hadnling client ('127.0.0.1', 64787): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-26 17:16:04,860 - INFO - Client connected : ('127.0.0.1', 64789)
+2025-04-26 17:16:04,887 - INFO - Error hadnling client ('127.0.0.1', 64789): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-26 17:16:05,652 - INFO - Client connected : ('127.0.0.1', 64791)
+2025-04-26 17:19:02,515 - INFO - Client connected : ('127.0.0.1', 64815)
+2025-04-26 17:19:04,412 - INFO - Client connected : ('127.0.0.1', 64817)
+2025-04-26 17:19:06,468 - INFO - Client connected : ('127.0.0.1', 64818)
+2025-04-26 17:19:13,389 - INFO - Client connected : ('127.0.0.1', 64820)
+2025-04-26 17:19:13,406 - INFO - Error hadnling client ('127.0.0.1', 64820): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-26 17:19:20,588 - INFO - Client connected : ('127.0.0.1', 64824)
+2025-04-26 17:19:20,588 - INFO - Error hadnling client ('127.0.0.1', 64824): invalid literal for int() with base 10: '(3).pdf'
+2025-04-26 17:19:44,842 - INFO - Client connected : ('127.0.0.1', 64828)
+2025-04-26 17:19:44,842 - INFO - Error hadnling client ('127.0.0.1', 64828): invalid literal for int() with base 10: '(1).docx'
+2025-04-26 17:19:50,892 - INFO - Client connected : ('127.0.0.1', 64830)
+2025-04-26 17:19:50,901 - INFO - Error hadnling client ('127.0.0.1', 64830): 'utf-8' codec can't decode byte 0xb5 in position 9: invalid start byte
+2025-04-26 17:19:57,141 - INFO - Client connected : ('127.0.0.1', 64832)
+2025-04-26 17:19:57,155 - INFO - 'sam8.jpg' uploaded successfully
+2025-04-26 17:24:23,006 - INFO - Client connected : ('127.0.0.1', 64968)
+2025-04-26 17:24:30,455 - INFO - Client connected : ('127.0.0.1', 64972)
+2025-04-26 17:24:30,455 - INFO - Error hadnling client ('127.0.0.1', 64972): invalid literal for int() with base 10: '(1).docx'
+2025-04-26 17:24:31,969 - INFO - Client connected : ('127.0.0.1', 64975)
+2025-04-26 17:24:31,969 - INFO - Error hadnling client ('127.0.0.1', 64975): invalid literal for int() with base 10: '(1).docx'
+2025-04-26 17:24:32,760 - INFO - Client connected : ('127.0.0.1', 64977)
+2025-04-26 17:24:32,761 - INFO - Error hadnling client ('127.0.0.1', 64977): invalid literal for int() with base 10: '(1).docx'
+2025-04-26 17:24:39,754 - INFO - Client connected : ('127.0.0.1', 64979)
+2025-04-26 17:24:39,778 - INFO - 'SamLand-Ticket-SL-M9U0PFQD-5CA.pdf' uploaded successfully
+2025-04-26 17:24:39,786 - INFO - Client connected : ('127.0.0.1', 64981)
+2025-04-26 17:24:46,898 - INFO - Client connected : ('127.0.0.1', 64990)
+2025-04-26 17:24:46,899 - INFO - Error hadnling client ('127.0.0.1', 64990): invalid literal for int() with base 10: '(1).pdf'
+2025-04-26 17:24:47,944 - INFO - Client connected : ('127.0.0.1', 64992)
+2025-04-26 17:24:47,945 - INFO - Error hadnling client ('127.0.0.1', 64992): invalid literal for int() with base 10: '(1).pdf'
+2025-04-26 17:24:51,468 - INFO - Client connected : ('127.0.0.1', 64997)
+2025-04-26 17:26:03,175 - INFO - Client connected : ('127.0.0.1', 65005)
+2025-04-26 17:26:03,175 - INFO - Error hadnling client ('127.0.0.1', 65005): invalid literal for int() with base 10: '(3).pdf'
+2025-04-26 17:26:08,822 - INFO - Client connected : ('127.0.0.1', 65007)
+2025-04-26 17:26:08,823 - INFO - Error hadnling client ('127.0.0.1', 65007): invalid literal for int() with base 10: '(3).pdf'
+2025-04-26 17:26:18,073 - INFO - Client connected : ('127.0.0.1', 65012)
+2025-04-26 17:26:18,073 - INFO - Error hadnling client ('127.0.0.1', 65012): invalid literal for int() with base 10: '(1).docx'
+2025-04-26 17:26:27,420 - INFO - Client connected : ('127.0.0.1', 65015)
+2025-04-26 17:26:27,440 - INFO - 'table_09.docx' uploaded successfully
+2025-04-26 17:26:27,447 - INFO - Client connected : ('127.0.0.1', 65017)
+2025-04-26 17:26:33,130 - INFO - Client connected : ('127.0.0.1', 65020)
+2025-04-26 17:26:33,130 - INFO - 'table_09.docx' already exists. creating a new version
+2025-04-26 17:26:33,149 - INFO - 'table_09_v2.docx' uploaded successfully
+2025-04-26 17:26:33,156 - INFO - Client connected : ('127.0.0.1', 65022)
+2025-04-26 17:29:17,673 - INFO - Client connected : ('127.0.0.1', 65039)
+2025-04-26 17:39:00,474 - INFO - Client connected : ('127.0.0.1', 65203)
+2025-04-26 17:42:32,508 - INFO - Client connected : ('127.0.0.1', 65231)
+2025-04-26 17:43:28,159 - INFO - Client connected : ('127.0.0.1', 65265)
+2025-04-26 17:43:35,802 - INFO - Client connected : ('127.0.0.1', 65267)
+2025-04-26 17:43:35,816 - INFO - Error hadnling client ('127.0.0.1', 65267): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-26 17:43:39,482 - INFO - Client connected : ('127.0.0.1', 65269)
+2025-04-26 17:44:38,984 - INFO - Client connected : ('127.0.0.1', 65282)
+2025-04-26 17:44:38,984 - INFO - 'table_09.docx' already exists. creating a new version
+2025-04-26 17:44:39,001 - INFO - 'table_09_v3.docx' uploaded successfully
+2025-04-26 17:44:39,010 - INFO - Client connected : ('127.0.0.1', 65284)
+2025-04-26 17:44:42,217 - INFO - Client connected : ('127.0.0.1', 65288)
+2025-04-26 17:44:45,265 - INFO - Client connected : ('127.0.0.1', 65289)
+2025-04-26 17:44:45,277 - INFO - Error hadnling client ('127.0.0.1', 65289): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-26 17:51:26,070 - INFO - Client connected : ('127.0.0.1', 65351)
+2025-04-26 17:51:26,091 - INFO - 'sam.pdf' uploaded successfully
+2025-04-26 17:51:26,098 - INFO - Client connected : ('127.0.0.1', 65353)
+2025-04-26 17:51:28,941 - INFO - Client connected : ('127.0.0.1', 65357)
+2025-04-26 17:51:32,304 - INFO - Client connected : ('127.0.0.1', 65358)
+2025-04-26 17:51:32,320 - INFO - Error hadnling client ('127.0.0.1', 65358): [WinError 10053] An established connection was aborted by the software in your host machine
+2025-04-26 18:40:07,815 - INFO - Client connected : ('127.0.0.1', 49287)
+2025-04-26 18:55:03,067 - INFO - Client connected : ('127.0.0.1', 49748)
+2025-04-26 18:55:47,821 - INFO - Client connected : ('127.0.0.1', 49758)
+2025-04-26 18:58:08,470 - INFO - Client connected : ('127.0.0.1', 49788)
+2025-04-26 19:05:06,638 - INFO - Client connected : ('127.0.0.1', 49916)
+2025-04-26 19:05:09,568 - INFO - Client connected : ('127.0.0.1', 49918)
+2025-04-26 19:07:46,569 - INFO - Client connected : ('127.0.0.1', 49966)
+2025-04-26 21:01:05,680 - INFO - Client connected : ('127.0.0.1', 2353)
+2025-04-26 21:01:05,681 - INFO - Client connected : ('127.0.0.1', 2354)
+2025-04-26 21:01:05,942 - INFO - Client connected : ('127.0.0.1', 2356)
+2025-04-26 21:01:07,015 - INFO - Client connected : ('127.0.0.1', 2359)
+2025-04-26 21:01:42,051 - INFO - Client connected : ('127.0.0.1', 2366)
+2025-04-26 21:02:58,402 - INFO - Client connected : ('127.0.0.1', 2390)
+2025-04-26 21:07:17,635 - INFO - Client connected : ('127.0.0.1', 2424)
+2025-04-26 21:07:17,635 - INFO - Error hadnling client ('127.0.0.1', 2424): invalid literal for int() with base 10: '(2).sql'
+2025-04-26 21:07:24,074 - INFO - Client connected : ('127.0.0.1', 2426)
+2025-04-26 21:07:24,074 - INFO - Error hadnling client ('127.0.0.1', 2426): invalid literal for int() with base 10: '(2).sql'
+2025-04-26 21:07:25,241 - INFO - Client connected : ('127.0.0.1', 2428)
+2025-04-26 21:07:25,241 - INFO - Error hadnling client ('127.0.0.1', 2428): invalid literal for int() with base 10: '(2).sql'
+2025-04-26 21:07:36,938 - INFO - Client connected : ('127.0.0.1', 2431)
+2025-04-26 21:07:36,958 - INFO - 'SamLand-Ticket-SL-M9UFDD6O-Z2L.pdf' uploaded successfully
+2025-04-26 21:07:36,962 - INFO - Client connected : ('127.0.0.1', 2433)
+2025-04-26 21:07:42,328 - INFO - Client connected : ('127.0.0.1', 2438)
+2025-04-26 21:07:48,729 - INFO - Client connected : ('127.0.0.1', 2439)
+2025-04-26 21:09:19,883 - INFO - Client connected : ('127.0.0.1', 2451)
+2025-04-26 21:09:52,496 - INFO - Client connected : ('127.0.0.1', 2458)
+2025-04-26 21:09:52,497 - INFO - 'SamLand-Ticket-SL-M9UFDD6O-Z2L.pdf' already exists. creating a new version
+2025-04-26 21:09:52,516 - INFO - 'SamLand-Ticket-SL-M9UFDD6O-Z2L_v2.pdf' uploaded successfully
+2025-04-26 21:09:52,520 - INFO - Client connected : ('127.0.0.1', 2460)
+2025-04-26 21:09:55,764 - INFO - Client connected : ('127.0.0.1', 2464)
+2025-04-27 00:14:00,811 - INFO - Client connected : ('127.0.0.1', 3732)
+2025-04-27 00:14:00,811 - INFO - Error hadnling client ('127.0.0.1', 3732): invalid literal for int() with base 10: '(1).pdf'
+2025-04-27 00:14:12,824 - INFO - Client connected : ('127.0.0.1', 3735)
+2025-04-27 00:14:12,835 - INFO - 'Calculus3_Exam3_CleanMemorySheet.pdf' uploaded successfully
+2025-04-27 00:14:12,847 - INFO - Client connected : ('127.0.0.1', 3737)
+2025-04-27 00:14:41,225 - INFO - Client connected : ('127.0.0.1', 3744)
+2025-04-27 00:14:46,466 - INFO - Client connected : ('127.0.0.1', 3745)
+2025-04-27 19:52:24,410 - INFO - Client connected : ('127.0.0.1', 8125)
+2025-04-27 19:52:24,412 - INFO - 'shortcut.bat' uploaded successfully
+2025-04-27 19:52:24,424 - INFO - Client connected : ('127.0.0.1', 8127)
+2025-04-27 20:41:46,538 - INFO - Client connected : ('127.0.0.1', 8595)
+2025-04-27 20:41:49,704 - INFO - Client connected : ('127.0.0.1', 8597)
+2025-04-27 20:42:53,307 - INFO - Client connected : ('127.0.0.1', 8606)
+2025-04-27 20:47:12,378 - INFO - Client connected : ('127.0.0.1', 8885)
+2025-04-27 20:47:15,186 - INFO - Client connected : ('127.0.0.1', 8888)
+2025-04-27 20:47:26,062 - INFO - Client connected : ('127.0.0.1', 8892)
+2025-04-27 20:47:26,064 - INFO - 'Fileshare.bat' uploaded successfully
+2025-04-27 20:47:26,077 - INFO - Client connected : ('127.0.0.1', 8894)
+2025-04-27 20:47:35,986 - INFO - Client connected : ('127.0.0.1', 8902)
+2025-04-27 20:48:17,895 - INFO - Client connected : ('127.0.0.1', 8910)
+2025-04-27 20:48:39,260 - INFO - Client connected : ('127.0.0.1', 8919)
+2025-04-27 20:51:35,152 - INFO - Client connected : ('127.0.0.1', 8933)
+2025-04-27 20:51:35,882 - INFO - Client connected : ('127.0.0.1', 8935)
+2025-04-27 20:52:10,966 - INFO - Client connected : ('127.0.0.1', 8945)
+2025-04-27 20:52:14,973 - INFO - Client connected : ('127.0.0.1', 8946)
+2025-04-27 20:52:14,974 - INFO - 'Calculus3_Exam3_CleanMemorySheet.pdf' deleted by admin
+2025-04-27 20:52:14,989 - INFO - Client connected : ('127.0.0.1', 8948)
+2025-04-27 20:52:50,914 - INFO - Client connected : ('127.0.0.1', 8968)
+2025-04-27 20:52:53,977 - INFO - Client connected : ('127.0.0.1', 8969)
+2025-04-27 20:52:53,977 - INFO - 'Fileshare.bat' deleted by admin
+2025-04-27 20:52:53,987 - INFO - Client connected : ('127.0.0.1', 8971)
+2025-04-27 20:53:09,992 - INFO - Client connected : ('127.0.0.1', 8981)
+2025-04-27 20:53:09,992 - INFO - 'sam.pdf' deleted by admin
+2025-04-27 20:53:10,001 - INFO - Client connected : ('127.0.0.1', 8983)
+2025-04-28 12:43:06,767 - INFO - Client connected : ('127.0.0.1', 18996)
+2025-04-28 12:43:06,816 - INFO - 'RK61.pdf' uploaded successfully
+2025-04-28 12:43:06,835 - INFO - Client connected : ('127.0.0.1', 18998)
+2025-04-28 12:43:20,596 - INFO - Client connected : ('127.0.0.1', 19004)
+2025-04-28 12:43:33,505 - INFO - Client connected : ('127.0.0.1', 19011)
+2025-04-28 12:43:40,597 - INFO - Client connected : ('127.0.0.1', 19013)
+2025-04-28 12:43:40,599 - INFO - 'RK61.pdf' deleted by admin
+2025-04-28 12:43:40,615 - INFO - Client connected : ('127.0.0.1', 19014)
+2025-11-16 00:28:54,100 - INFO - Client connected : ('127.0.0.1', 34972)
+2025-11-16 00:28:54,177 - INFO - 'TOC_Notes_ALL.pdf' uploaded successfully
+2025-11-16 00:28:54,217 - INFO - Client connected : ('127.0.0.1', 5658)
+2025-11-16 00:28:59,458 - INFO - Client connected : ('127.0.0.1', 19894)
+2025-11-16 00:29:07,900 - INFO - Client connected : ('127.0.0.1', 14122)
+2025-11-16 00:29:07,947 - INFO - Error hadnling client ('127.0.0.1', 14122): [WinError 10053] An established connection was aborted by the software in your host machine

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Activity Logs</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+  
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+          <a class="navbar-brand" href="#">FileShare</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          
+          <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/logs">Logs</a>
+                  </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/login">Login</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+  
+  <div class="container my-5">
+
+    <h1 class="text-center mb-4">Activity Logs</h1>
+
+    {% if logs %}
+      <div class="table-responsive shadow">
+        <table class="table table-striped align-middle">
+          <thead class="table-primary">
+            <tr>
+              <th>#</th>
+              <th>User</th>
+              <th>File</th>
+              <th>Action</th>
+              <th>Timestamp&nbsp;(UTC)</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for log in logs %}
+            <tr>
+              <td>{{ log.id }}</td>
+              <td>{{ log.username }}</td>
+              <td>{{ log.filename }}</td>
+              <td class="text-capitalize">{{ log.action }}</td>
+              <td>{{ log.created_at.strftime('%Y-%m-%d&nbsp;%H:%M:%S') }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    {% else %}
+      <p class="text-muted text-center">No activity logged yet.</p>
+    {% endif %}
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
